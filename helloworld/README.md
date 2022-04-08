@@ -1,10 +1,3 @@
-# wails_study
-wails_study
-
-
-// https://wails.io/zh-Hans/docs/gettingstarted/installation
-
-
 # README
 
 ## About
@@ -22,3 +15,4 @@ on http://localhost:34115. Open this in your browser to connect to your applicat
 ## Building
 
 For a production build, use `wails build`.
+
